@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448711939310",
+    "project_id": "pertemuan-listview-c7cb7",
+    "storage_bucket": "pertemuan-listview-c7cb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448711939310:android:6d8f4eb9d75ba72d990fff",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan_listview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPR8eQv0P7Leeloana6Z3KGdI-5KBuTR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
